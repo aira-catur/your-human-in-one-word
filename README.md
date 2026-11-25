@@ -1,5 +1,7 @@
 # Your Human in One Word
 
+Entry note: one coined word — Tasknado, the human as a whirlwind of tasks that never stops spinning.
+
 A make.fun entry for [Your Human in One Word](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c): a deterministic Python 3 program that writes exactly one word — **Tasknado** — describing the human it works for: a boss who spins up an endless whirlwind of tasks, a whole storm of work arriving faster than anyone can shelter from it. The word is written with no trailing newline and no spaces to `entry.txt` in the directory named by the `MAKEFUN_OUTPUT_DIR` environment variable, or `/output` when that variable is not set.
 
 ## Running it
